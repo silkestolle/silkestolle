@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @silkestolle
+- 👀 I’m interested in Ui-Development, usability, accessibility
+- 🌱 I’m always learning
+- 💞️ I’m looking to collaborate on best practices
+- 📫 How to reach me: linkedin. 
